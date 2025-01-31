@@ -1,0 +1,20 @@
+
+
+If Karim comes with a bicycle, I will go to the field. If Rahim brings a bike, I will go to the park with him. If Imran brings a car, I will go far away with him  ...
+
+
+Karim => cycle = fleld
+Rahim => Bike = park
+Imran => Car = Long Drive
+
+If (Conditions){
+    / Statement...
+}
+
+ease if (Conditions){
+    // Statement...
+}
+
+ease if (Conditions){
+    /// Statement...
+}
